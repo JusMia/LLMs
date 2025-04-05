@@ -1,6 +1,6 @@
-Large Language Models   
-—--------------------------------------------------------------  
-for 10 Natural Language Processing Tasks
+<p align="center">Large Language Models </p>
+<p align="center">—--------------------------------------------------------------  </p>
+<p align="center">for 10 Natural Language Processing Tasks</p>
 
 1. Information retrieval  
    1. Zhu, Y.; Yuan, H.; Wang, S.; Liu, J.; Liu, W.; Deng, C.; Dou, Z.; Wen, J.R. Large language models for information retrieval: A survey. arXiv preprint arXiv:2308.07107 2023\.   
