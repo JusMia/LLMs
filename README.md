@@ -44,33 +44,32 @@
    3. Kurdi, G.; Leo, J.; Parsia, B.; Sattler, U.; Al-Emari, S. A systematic review of automatic question generation for educational purposes. International Journal of Artificial Intelligence in Education 2020, 30, 121–204.  
    4. OpenAI, R. Gpt-4 technical report. arxiv 2303.08774. View in Article 2023, 2, 13\.  
    5. Touvron, H.; Lavril, T.; Izacard, G.; Martinet, X.; Lachaux, M.A.; Lacroix, T.; Rozière, B.; Goyal, N.; Hambro, E.; Azhar, F.; et al. 938 Llama: Open and efficient foundation language models. arXiv preprint arXiv:2302.13971 2023\.  
-   6. Chowdhery, A.; Narang, S.; Devlin, J.; Bosma, M.; Mishra, G.; Roberts, A.; Barham, P.; Chung, H.W.; Sutton, C.; Gehrmann, S.; 943 et al. Palm: Scaling language modeling with pathways. Journal of Machine Learning Research 2023, 24, 1–113.  
+   6. Chowdhery, A.; Narang, S.; Devlin, J.; Bosma, M.; Mishra, G.; Roberts, A.; Barham, P.; Chung, H.W.; Sutton, C.; Gehrmann, S.; 943 et al. Palm: Scaling language modeling with pathways. Journal of Machine Learning Research 2023.  
 7. Fake News Detection   
-   1. Chen, C.; Shu, K. Can llm-generated misinformation be detected? arXiv preprint arXiv:2309.13788 2023\.  
+   1. Chen, C.; Shu, K. Can llm-generated misinformation be detected? arXiv preprint arXiv:2309.13788 2023.  
 8. Hate Speech Detection  
-   1. Anjum.; Katarya, R. Hate speech, toxicity detection in online social media: a recent survey of state of the art and opportunities. International Journal of Information Security 2024, 23, 577–608.  
-   2. Sahi, H.; Kılıç, Y.; Saˇglam, R.B. Automated detection of hate speech towards woman on Twitter. In Proceedings of the 2018 3rd international conference on computer science and engineering (UBMK). IEEE, 2018, pp. 533–536.  
-   3. Fortuna, P.; Nunes, S. A survey on automatic detection of hate speech in text. ACM Computing Surveys (CSUR) 2018, 51, 1–30.  
-   4. Jahan, M.S.; Oussalah, M. A systematic review of Hate Speech automatic detection using Natural Language Processing. Neurocomputing 2023, p. 126232\.  
-   5. Roberts, E. Automated hate speech detection in a low-resource environment. Journal of the Digital Humanities Association of Southern Africa 2024, 5\.  
-   6. Yadav, D.; Sain, M.K.; et al. Comparative Analysis and Assesment on Different Hate Speech Detection Learning Techniques. Journal of Algebraic Statistics 2023, 14, 29–48.  
-   7. Saleh, H.; Alhothali, A.; Moria, K. Detection of hate speech using bert and hate speech word embedding with deep model. Applied Artificial Intelligence 2023, 37, 2166719\.  
-   8. Miran, A.Z.; Yahia, H.S. Hate Speech Detection in Social Media (Twitter) Using Neural Network. J. Mobile Multimedia 2023, 19, 765–798.  
-   9. Abraham, A.; Kolanchery, A.J.; Kanjookaran, A.A.; Jose, B.T.; Dhanya, P. Hate speech detection in Twitter using different models. In Proceedings of the ITM Web of Conferences. EDP Sciences, 2023, Vol. 56, p. 04007\.  
-   10. Alkomah, F.; Ma, X. A literature review of textual hate speech detection methods and datasets. Information 2022, 13, 273\.  
+   1. Anjum.; Katarya, R. Hate speech, toxicity detection in online social media: a recent survey of state of the art and opportunities. International Journal of Information Security 2024.
+   2. Sahi, H.; Kılıç, Y.; Saˇglam, R.B. Automated detection of hate speech towards woman on Twitter. In Proceedings of the 2018 3rd international conference on computer science and engineering (UBMK). IEEE, 2018.
+   3. Fortuna, P.; Nunes, S. A survey on automatic detection of hate speech in text. ACM Computing Surveys (CSUR) 2018.
+   4. Jahan, M.S.; Oussalah, M. A systematic review of Hate Speech automatic detection using Natural Language Processing. Neurocomputing 2023.  
+   5. Roberts, E. Automated hate speech detection in a low-resource environment. Journal of the Digital Humanities Association of Southern Africa 2024.  
+   6. Yadav, D.; Sain, M.K.; et al. Comparative Analysis and Assesment on Different Hate Speech Detection Learning Techniques. Journal of Algebraic Statistics 2023.  
+   7. Saleh, H.; Alhothali, A.; Moria, K. Detection of hate speech using bert and hate speech word embedding with deep model. Applied Artificial Intelligence 2023.  
+   8. Miran, A.Z.; Yahia, H.S. Hate Speech Detection in Social Media (Twitter) Using Neural Network. J. Mobile Multimedia 2023. 
+   9. Abraham, A.; Kolanchery, A.J.; Kanjookaran, A.A.; Jose, B.T.; Dhanya, P. Hate speech detection in Twitter using different models. In Proceedings of the ITM Web of Conferences. EDP Sciences, 2023.
+   10. Alkomah, F.; Ma, X. A literature review of textual hate speech detection methods and datasets. Information 2022.  
 9. Text generation  
-   1. Zhou, W.; Jiang, Y.E.; Wilcox, E.; Cotterell, R.; Sachan, M. Controlled text generation with natural language instructions. In Proceedings of the International Conference on Machine Learning. PMLR, 2023, pp. 42602–42613.  
-   2. Iqbal, T.; Qureshi, S. The survey: Text generation models in deep learning. Journal of King Saud University-Computer and Information Sciences 2022, 34, 2515–2528.  
-   3. deVilliers, C.; Dimes, R.; Molinari, M. How will AI text generation and processing impact sustainability reporting? Critical analysis, a conceptual framework and avenues for future research. Sustainability Accounting, Management and Policy Journal 2024, 15, 96–118.  
-   4. Zhou, W.; Jiang, Y.E.; Wilcox, E.; Cotterell, R.; Sachan, M. Controlled text generation with natural language instructions. In Proceedings of the International Conference on Machine Learning. PMLR, 2023, pp. 42602–42613.  
-   5. Iqbal, T.; Qureshi, S. The survey: Text generation models in deep learning. Journal of King Saud University-Computer and Information Sciences 2022, 34, 2515–2528.  
+   1. Zhou, W.; Jiang, Y.E.; Wilcox, E.; Cotterell, R.; Sachan, M. Controlled text generation with natural language instructions. In Proceedings of the International Conference on Machine Learning. PMLR, 2023.
+   2. Iqbal, T.; Qureshi, S. The survey: Text generation models in deep learning. Journal of King Saud University-Computer and Information Sciences 2022.
+   3. deVilliers, C.; Dimes, R.; Molinari, M. How will AI text generation and processing impact sustainability reporting? Critical analysis, a conceptual framework and avenues for future research. Sustainability Accounting, Management and Policy Journal 2024.
+   4. Zhou, W.; Jiang, Y.E.; Wilcox, E.; Cotterell, R.; Sachan, M. Controlled text generation with natural language instructions. In Proceedings of the International Conference on Machine Learning. PMLR, 2023.
+   5. Iqbal, T.; Qureshi, S. The survey: Text generation models in deep learning. Journal of King Saud University-Computer and Information Sciences 2022.
 10. Sentiment analysis   
-    1. Wankhade, M.; Rao, A.C.S.; Kulkarni, C. A survey on sentiment analysis methods, applications, and challenges. Artificial Intelligence Review 2022, 55, 5731–5780.  
-    2. Prasanna, M.; Shaila, S.; Vadivel, A. Polarity classification on twitter data for classifying sarcasm using clause pattern for sentiment analysis. Multimedia Tools and Applications 2023, 82, 32789–32825.  
-    3. Hung, L.P.; Alias, S. Beyond sentiment analysis: A review of recent trends in text based sentiment analysis and emotion detection. Journal of Advanced Computational Intelligence and Intelligent Informatics 2023, 27, 84–95.  
-    4. Tru¸scˇa, M.M.; Frasincar, F. Survey on aspect detection for aspect-based sentiment analysis. Artificial Intelligence Review 2023, 56, 3797–3846.  
-    5. Sangeetha, J.; Kumaran, U. A hybrid optimization algorithm using BiLSTM structure for sentiment analysis. Measurement: Sensors 2023, 25, 100619\.  
-    6. Mutinda, J.; Mwangi, W.; Okeyo, G. Sentiment analysis of text reviews using lexicon-enhanced bert embedding (LeBERT) model with convolutional neural network. Applied Sciences 2023, 13, 1445\.  
-    7. Zarandi, A.K.; Mirzaei, S. A survey of aspect-based sentiment analysis classification with a focus on graph neural network 1051  
-    8.  methods. Multimedia Tools and Applications 2024, 83, 56619–56695.
+    1. Wankhade, M.; Rao, A.C.S.; Kulkarni, C. A survey on sentiment analysis methods, applications, and challenges. Artificial Intelligence Review 2022.
+    2. Prasanna, M.; Shaila, S.; Vadivel, A. Polarity classification on twitter data for classifying sarcasm using clause pattern for sentiment analysis. Multimedia Tools and Applications 2023.  
+    3. Hung, L.P.; Alias, S. Beyond sentiment analysis: A review of recent trends in text based sentiment analysis and emotion detection. Journal of Advanced Computational Intelligence and Intelligent Informatics 2023.
+    4. Tru¸scˇa, M.M.; Frasincar, F. Survey on aspect detection for aspect-based sentiment analysis. Artificial Intelligence Review 2023. 
+    5. Sangeetha, J.; Kumaran, U. A hybrid optimization algorithm using BiLSTM structure for sentiment analysis. Measurement: Sensors 2023.  
+    6. Mutinda, J.; Mwangi, W.; Okeyo, G. Sentiment analysis of text reviews using lexicon-enhanced bert embedding (LeBERT) model with convolutional neural network. Applied Sciences 2023.
+    7. Zarandi, A.K.; Mirzaei, S. A survey of aspect-based sentiment analysis classification with a focus on graph neural network methods. Multimedia Tools and Applications 2024.
 
